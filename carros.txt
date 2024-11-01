@@ -18,3 +18,43 @@ Focus SE 1.6
 2024
 0
 100000.00
+Toyota
+Corolla Cross
+2023
+15000
+125000.00
+Honda
+HR-V
+2022
+20000
+110000.00
+Volkswagen
+T-Cross
+2021
+30000
+105000.00
+Toyota
+Yaris Cross
+2023
+5000
+130000.00
+Chevrolet
+Tracker
+2023
+10000
+120000.00
+Hyundai
+Creta
+2022
+25000
+115000.00
+Nissan
+Kicks
+2021
+35000
+95000.00
+Honda
+Civic Touring
+2022
+15000
+135000.00
